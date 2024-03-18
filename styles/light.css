@@ -9,7 +9,7 @@
   --text-color-title-decor: rgba(53, 52, 48, 1);
   --text-color: rgba(53, 52, 48, 1);
   --accent-color: rgba(50, 49, 45, 0.4); 
-} 
+}
 
 .page.theme_light {
   background-image: url('../images/cover-image-light.png');

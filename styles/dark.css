@@ -3,7 +3,7 @@
   здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-:root.theme-dark  {
+:root.theme-dark {
   --basic-color: rgba(255, 0, 112, 1);
   --text-color-title: rgba(219, 0, 255, 1);
   --text-color-title-decor: rgba(0, 0, 40, 1);

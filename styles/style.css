@@ -325,7 +325,7 @@
 
   .footer {
     margin-block-start: 70px;
-    min-height: 1014px;
+    min-height: 1024px;
   }
 
   .footer__title {
@@ -445,7 +445,7 @@
   }
 
   .footer {
-    min-height: 758px;
+    min-height: 768px;
   }
 
   .footer__title {
