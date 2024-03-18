@@ -232,7 +232,7 @@
     column-gap: 20px;
   }
 
-  .content__section-title#one {
+  .content__section-title#h2_one {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -245,7 +245,7 @@
     margin-block-start: 0;
   }
 
-  .content__section-title#two {
+  .content__section-title#h2_two {
     width: 236px;
   }
 
@@ -257,7 +257,7 @@
     column-gap: 20px;
   }
 
-  .content__section-title#three {
+  .content__section-title#h2_three {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 1;
@@ -268,7 +268,7 @@
     margin-block-start: 0;
   }
   
-  .content__section-title-subject#identified {
+  .content__section-title-subject#h4 {
     margin-block-start: 20px;
   }
   
@@ -368,7 +368,7 @@
     row-gap: 10px;
   }
 
-  .content__section-title__heading#identified {
+  .content__section-title__heading#h3 {
     margin-block-start: 10px;
   }
 
@@ -380,7 +380,7 @@
     row-gap: 10px;
   }
 
-  .content__section-title#two {
+  .content__section-title#h2_two {
     min-width: 315px;
     margin-block-end: 10px;
     grid-column-start: 1;
@@ -389,21 +389,21 @@
     grid-row-end: 2;
   }
 
-  .content__section-title__heading#one {
+  .content__section-title__heading#h3_one {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 2;
     grid-row-end: 3;
   }
 
-  .content__section-title__heading#two {
+  .content__section-title__heading#h3_two {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 2;
     grid-row-end: 3;
   }
 
-  .content__section-title__heading#three {
+  .content__section-title__heading#h3_three {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 2;
@@ -414,21 +414,21 @@
     margin: 0;
   }
 
-  .content__section-text#one {
+  .content__section-text#p_one {
     grid-column-start: 1;
     grid-column-end: 2;
     grid-row-start: 3;
     grid-row-end: 4;
   }
 
-  .content__section-text#two {
+  .content__section-text#p_two {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row-start: 3;
     grid-row-end: 4;
   }
   
-  .content__section-text#three {
+  .content__section-text#p_three {
     grid-column-start: 3;
     grid-column-end: 4;
     grid-row-start: 3;
