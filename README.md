@@ -1,1 +1,1 @@
-https://github.com/riseabove1188/posmotri_v_okno
+https://github.com/riseabove1188/slozhno-sosredotochitsya
